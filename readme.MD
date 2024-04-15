@@ -10,6 +10,8 @@
 
 ## Usage
 
+First, clone the repository on your local machine. Repository includes all the necessary files to run the project.
+
 ### PLA project
 
 Run the following command to execute the PLA project:
